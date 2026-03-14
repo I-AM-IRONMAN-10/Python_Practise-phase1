@@ -1,3 +1,5 @@
+#day-1 14.03.2026 question -2
+
 def ListNode(self,val=0,next=None):
     self.val=val
     self.next=next
